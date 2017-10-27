@@ -1,0 +1,15 @@
+vendor
+.vagrant
+.idea
+public
+data
+bootstrap.sh
+composer.phar
+Vagrantfile
+composer.lock
+profiler-data
+default
+phpunit.phar
+phpcs.bat
+phpcbf.bat
+bastas-router/tests/code-coverage-reports
